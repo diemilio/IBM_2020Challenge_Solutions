@@ -4,4 +4,6 @@ This repository contains an IPython notebook with the solution to the 4th exerci
 
 <img src=".\my_score.png"/>
 
+For better rendering of latex content, you can access the file through nbviewer [here](https://nbviewer.jupyter.org/github/diemilio/IBM_2020Challenge_Solutions/blob/master/Challenge4_CircuitDecomposition_Solution.ipynb).
+
 The original version of all four exercises can be found [here](https://github.com/qiskit-community/may4_challenge_exercises).
